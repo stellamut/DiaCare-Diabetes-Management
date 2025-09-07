@@ -174,13 +174,4 @@ This application is for informational purposes only and should not replace profe
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
-
-For support or questions:
-
-* Create an issue in the repository
-* Email: support@diabetestracker.app (placeholder)
-
-* * *
-
 **Built with ❤️ for better diabetes management and SDG 3: Good Health & Well-being**
